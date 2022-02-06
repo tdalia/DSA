@@ -1,0 +1,16 @@
+D:\LeetCode\Mathematics\bin\Debug\net5.0\Mathematics.exe
+D:\LeetCode\Mathematics\bin\Debug\net5.0\Mathematics.deps.json
+D:\LeetCode\Mathematics\bin\Debug\net5.0\Mathematics.runtimeconfig.json
+D:\LeetCode\Mathematics\bin\Debug\net5.0\Mathematics.runtimeconfig.dev.json
+D:\LeetCode\Mathematics\bin\Debug\net5.0\Mathematics.dll
+D:\LeetCode\Mathematics\bin\Debug\net5.0\ref\Mathematics.dll
+D:\LeetCode\Mathematics\bin\Debug\net5.0\Mathematics.pdb
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.csprojAssemblyReference.cache
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.AssemblyInfoInputs.cache
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.AssemblyInfo.cs
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.csproj.CoreCompileInputs.cache
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.dll
+D:\LeetCode\Mathematics\obj\Debug\net5.0\ref\Mathematics.dll
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.pdb
+D:\LeetCode\Mathematics\obj\Debug\net5.0\Mathematics.genruntimeconfig.cache

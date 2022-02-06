@@ -1,0 +1,16 @@
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.exe
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.deps.json
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.json
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.dev.json
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.dll
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\ref\DynamicProgramming.dll
+D:\LeetCode\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.pdb
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csprojAssemblyReference.cache
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfoInputs.cache
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfo.cs
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.CoreCompileInputs.cache
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.dll
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\ref\DynamicProgramming.dll
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.pdb
+D:\LeetCode\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.genruntimeconfig.cache

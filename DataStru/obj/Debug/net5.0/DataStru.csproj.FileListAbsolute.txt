@@ -1,0 +1,16 @@
+D:\LeetCode\DataStru\bin\Debug\net5.0\DataStru.exe
+D:\LeetCode\DataStru\bin\Debug\net5.0\DataStru.deps.json
+D:\LeetCode\DataStru\bin\Debug\net5.0\DataStru.runtimeconfig.json
+D:\LeetCode\DataStru\bin\Debug\net5.0\DataStru.runtimeconfig.dev.json
+D:\LeetCode\DataStru\bin\Debug\net5.0\DataStru.dll
+D:\LeetCode\DataStru\bin\Debug\net5.0\ref\DataStru.dll
+D:\LeetCode\DataStru\bin\Debug\net5.0\DataStru.pdb
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.csprojAssemblyReference.cache
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.AssemblyInfoInputs.cache
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.AssemblyInfo.cs
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.csproj.CoreCompileInputs.cache
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.dll
+D:\LeetCode\DataStru\obj\Debug\net5.0\ref\DataStru.dll
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.pdb
+D:\LeetCode\DataStru\obj\Debug\net5.0\DataStru.genruntimeconfig.cache
