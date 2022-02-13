@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\LeetCode\\DataStru\\DataStru.csproj": {}
+    "D:\\LeetCode\\DataStru\\DataStru.csproj": {}
   },
   "projects": {
-    "d:\\LeetCode\\DataStru\\DataStru.csproj": {
+    "D:\\LeetCode\\DataStru\\DataStru.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\LeetCode\\DataStru\\DataStru.csproj",
+        "projectUniqueName": "D:\\LeetCode\\DataStru\\DataStru.csproj",
         "projectName": "DataStru",
-        "projectPath": "d:\\LeetCode\\DataStru\\DataStru.csproj",
+        "projectPath": "D:\\LeetCode\\DataStru\\DataStru.csproj",
         "packagesPath": "C:\\Users\\Trupti\\.nuget\\packages\\",
-        "outputPath": "d:\\LeetCode\\DataStru\\obj\\",
+        "outputPath": "D:\\LeetCode\\DataStru\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

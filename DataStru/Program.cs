@@ -28,7 +28,7 @@ namespace DataStru
             //testArr.TextMatrixReshape();
             //testArr.TestSlidingWindowMax();
 
-            // prg.Test_BST();
+            prg.Test_BST();
 
             //int[] arr = new int[] {10, 10, 10, 10, 10, 10};
             //prg.largestAndSecondLargest(arr, 6);
@@ -46,7 +46,7 @@ namespace DataStru
 
             // prg.TestGraph();
 
-            prg.TestSorting();
+            // prg.TestSorting();
         }
 
         private void TestContainsDuplicateI() {

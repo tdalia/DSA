@@ -241,6 +241,52 @@ namespace DataStru {
             CheckSiblings(node.Right, list);
         }
 
+        // Find the largest value in each level & return it
+        // BFS Level/Pre Order traversal to iterate thru each level, find the max value & sore in a list
+        // LeetCode - Medium - https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+        // G4G - Easy - https://practice.geeksforgeeks.org/problems/largest-value-in-each-level/1
+        
+        public List<int> LargestValueInLevel() {
+            Node node = Root;
+            List<int> maxValues = new List<int>();
+
+            if (node == null) {
+                return maxValues;
+            }
+
+            Queue<Node> queue = new Queue<Node>();
+            queue.Enqueue(node);
+
+            int qSize = queue.Count;
+            while (qSize > 0) {
+                int currLevelMax = Int32.MinValue;
+
+                for (int i =0; i < qSize; i++) {
+                    Node currNode = queue.Dequeue();
+
+                    if (currLevelMax < currNode.Key) {
+                        currLevelMax = currNode.Key;
+                    }
+
+                    if (currNode.Left != null) {
+                        queue.Enqueue(currNode.Left);
+                    }
+                    if (currNode.Right != null) {
+                        queue.Enqueue(currNode.Right);
+                    }
+                }
+                maxValues.Add(currLevelMax);
+                qSize = queue.Count;
+            }
+
+            Console.WriteLine("\nLargest Values in each Level: ");
+            foreach (int i in maxValues) {
+                Console.Write($"{i}  ");
+            }
+            Console.WriteLine();
+
+            return maxValues;
+        }
 
 
         internal class Node {
